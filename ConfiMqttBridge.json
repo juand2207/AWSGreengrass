@@ -1,0 +1,9 @@
+{
+	"mqttTopicMapping": {
+		"HelloWorldIotCoreMapping": {
+		"topic": "clients/+/hello/world",
+		"source": "LocalMqtt",
+		"target": "IotCore"
+		}
+	}
+}
